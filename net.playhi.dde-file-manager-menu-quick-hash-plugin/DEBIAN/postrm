@@ -1,9 +1,0 @@
-#!/bin/sh
-
-file="/usr/share/deepin/dde-file-manager/oem-menuextensions/net.playhi.dde-file-manager-menu-quick-hash-plugin.desktop"
-
-if [ -e $file -a -f $file ]
-then
-  rm $file
-fi
-

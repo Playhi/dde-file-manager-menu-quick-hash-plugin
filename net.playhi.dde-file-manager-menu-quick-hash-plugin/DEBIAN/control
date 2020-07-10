@@ -1,5 +1,5 @@
 Package: net.playhi.dde-file-manager-menu-quick-hash-plugin
-Version: 1.0.0
+Version: 1.0.1.2
 Section: utils
 Priority: extra
 Architecture: amd64

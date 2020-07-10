@@ -1,7 +1,0 @@
-#!/bin/sh
-
-if [ "$1" = "configure" ]; then
-  mkdir -p "/usr/share/deepin/dde-file-manager/oem-menuextensions"
-  cp -a "/usr/lib/net.playhi.dde-file-manager-menu-quick-hash-plugin/hash.desktop" "/usr/share/deepin/dde-file-manager/oem-menuextensions/net.playhi.dde-file-manager-menu-quick-hash-plugin.desktop"
-fi
-

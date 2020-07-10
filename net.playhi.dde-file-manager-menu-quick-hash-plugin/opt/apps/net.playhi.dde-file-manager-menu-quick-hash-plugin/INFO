@@ -1,0 +1,21 @@
+{
+    "appid": "net.playhi.dde-file-manager-menu-quick-hash-plugin",
+    "name": "文件管理器右键哈希",
+    "version": "1.0.1.2",
+    "arch": ["amd64"],
+    "permissions": {
+        "autostart": false,
+        "notification": false,
+        "trayicon": false,
+        "clipboard": false,
+        "account": false,
+        "bluetooth": false,
+        "camera": false,
+        "audio_record": false,
+        "installed_apps": false
+    },
+    "support-plugins": [
+    ],
+    "plugins": [
+    ]
+}
